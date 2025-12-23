@@ -1,3 +1,4 @@
+# NBA key added 2025-12-22
 import streamlit as st
 import requests
 import pandas as pd
@@ -141,3 +142,4 @@ else:  # Soccer
     st.write(suggestion)
 
 st.warning("This is a basic tool. Always bet responsibly.")
+
